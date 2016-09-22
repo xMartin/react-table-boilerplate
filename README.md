@@ -1,0 +1,1 @@
+Simple ReactJS boilerplate for rendering a table
